@@ -38,7 +38,7 @@
 
 Estoy siempre abierto a nuevas oportunidades, colaboraciones y conexiones en la comunidad de desarrollo web. No dudes en contactarme:
 
-- 📧 Correo electrónico: [tmouresebastian@yahoo.com.ar]
+- 📧 Correo electrónico: [mouresebastian@yahoo.com.ar]
 - 💬 LinkedIn: [Perfil de LinkedIn]
 
 ¡Gracias por visitar mi perfil!
