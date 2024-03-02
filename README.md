@@ -4,10 +4,13 @@
 
 ## Acerca de mí
 
-- 👨🏻‍💻 Anteriormente trabajé en [mencionar brevemente tu experiencia laboral anterior en ámbitos no relacionados con la tecnología].
-- 🚀 Ahora, mi objetivo es realizar una transición exitosa hacia el campo tecnológico, específicamente en desarrollo web.
+- 👨🏻‍💻 Vengo de un ámbito distinto al tecnológico, pero estoy emocionado de aportar mis habilidades y experiencia previa a la comunidad de desarrollo web.
+- 💼 Durante mi carrera anterior, desarrollé una sólida capacidad para resolver problemas, trabajar en equipo y gestionar proyectos de manera eficiente.
+- 🔄 Estas habilidades son transferibles y estoy comprometido a aplicarlas de manera creativa en el campo de la tecnología.
+- 🚀 Ahora, mi objetivo es realizar una transición exitosa hacia el campo tecnológico, comenzando en desarrollo web.
 - 📚 Me encanta aprender y estoy constantemente explorando nuevas tecnologías y enfoques en mi tiempo libre.
 - 💡 Me apasiona la resolución de problemas y la creación de soluciones innovadoras a través del código.
+- 🎉 ¡Estoy emocionado por esta nueva etapa de oportunidades y crecimiento en el mundo tech!
 
 ## Habilidades
 
@@ -17,9 +20,12 @@
 - 🔧 Experiencia en herramientas de control de versiones como Git y GitHub
 - ⚙️ Conocimientos básicos de bases de datos y SQL
 
-<h3 align="left">Lista completa de lenguajes y herramientas con las que he trabajado hasta ahora:</h3>
+
+<h3 align="left">Lenguajes y herramientas con las que he trabajado hasta ahora:</h3>
 <div style="background-color: #e8f8f2; padding: 0 10px; padding-top: 15px;padding-bottom: 1px;border-radius: 5px;border: 1px solid #009e61;">
-<p align="center"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/></p></div>
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=bootstrap,express"  alt="bootstrap adn express" width="100" height="40"/>
+  <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/></p></div>
 
 ## Objetivos Futuros
 
@@ -32,7 +38,7 @@
 
 Estoy siempre abierto a nuevas oportunidades, colaboraciones y conexiones en la comunidad de desarrollo web. No dudes en contactarme:
 
-- 📧 Correo electrónico: [tu@email.com]
+- 📧 Correo electrónico: [tmouresebastian@yahoo.com.ar]
 - 💬 LinkedIn: [Perfil de LinkedIn]
 
 ¡Gracias por visitar mi perfil!
