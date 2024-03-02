@@ -1,6 +1,6 @@
-# ¡Hola, soy [Tu Nombre]!
+# ¡Hola, soy Sebastian!
 
-¡Bienvenido a mi perfil de GitHub! Soy un apasionado por el desarrollo web en constante aprendizaje y evolución. Recientemente he completado un boot camp muy popular en desarrollo web para mejorar mis habilidades técnicas y estoy emocionado por lo que el futuro en este campo tiene reservado para mí.
+¡Bienvenido a mi perfil de GitHub! Soy un apasionado por el desarrollo web, en constante búsqueda de nuevas oportunidades para aprender y crecer en este emocionante campo. Estoy comprometido con el aprendizaje continuo y siempre estoy explorando nuevas tecnologías y tendencias en el mundo del desarrollo web.
 
 ## Acerca de mí
 
@@ -17,22 +17,9 @@
 - 🔧 Experiencia en herramientas de control de versiones como Git y GitHub
 - ⚙️ Conocimientos básicos de bases de datos y SQL
 
-<h3 align="left">Lenguajes y herramientas con las que he trabajado hasta ahora:</h3>
-<p align="left"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/></p>
-
-
-## Proyectos Destacados
-
-Aquí hay una selección de algunos de los proyectos en los que he estado trabajando recientemente:
-
-1. **Proyecto 1:** Descripción breve del proyecto y tecnologías utilizadas.
-   [Enlace al repositorio / demo]
-
-2. **Proyecto 2:** Descripción breve del proyecto y tecnologías utilizadas.
-   [Enlace al repositorio / demo]
-
-3. **Proyecto 3:** Descripción breve del proyecto y tecnologías utilizadas.
-   [Enlace al repositorio / demo]
+<h3 align="left">Lista completa de lenguajes y herramientas con las que he trabajado hasta ahora:</h3>
+<div style="background-color: #e8f8f2; padding: 0 10px; padding-top: 15px;padding-bottom: 1px;border-radius: 5px;border: 1px solid #009e61;">
+<p align="center"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/></p></div>
 
 ## Objetivos Futuros
 
@@ -43,7 +30,7 @@ Aquí hay una selección de algunos de los proyectos en los que he estado trabaj
 
 ## ¡Contáctame!
 
-Estoy siempre abierto a nuevas oportunidades, colaboraciones y conexiones en la comunidad de desarrollo web. No dudes en contactarme a través de los siguientes medios:
+Estoy siempre abierto a nuevas oportunidades, colaboraciones y conexiones en la comunidad de desarrollo web. No dudes en contactarme:
 
 - 📧 Correo electrónico: [tu@email.com]
 - 💬 LinkedIn: [Perfil de LinkedIn]
