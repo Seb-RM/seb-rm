@@ -24,8 +24,18 @@
 <h3 align="left">Lenguajes y herramientas con las que he trabajado hasta ahora:</h3>
 <div style="background-color: #e8f8f2; padding: 0 10px; padding-top: 15px;padding-bottom: 1px;border-radius: 5px;border: 1px solid #009e61;">
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=bootstrap,express"  alt="bootstrap adn express" width="100" height="40"/>
-  <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/></p></div>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=express"  alt="express" width="50" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" width="40" height="40" alt="bootstrap" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
+  <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/>     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
+  <a href="https://seekvectorlogo.com/cloudinary-vector-logo-svg/" target="_blank"><img src="https://seekvectorlogo.com/wp-content/uploads/2022/02/cloudinary-vector-logo-2022.png" width="40" height="40" /></a>
+  <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/></p></div>
 
 ## Objetivos Futuros
 
@@ -39,7 +49,7 @@
 Estoy siempre abierto a nuevas oportunidades, colaboraciones y conexiones en la comunidad de desarrollo web. No dudes en contactarme:
 
 - 📧 Correo electrónico: [mouresebastian@yahoo.com.ar]
-- 💬 LinkedIn: [Perfil de LinkedIn]
+- 💬 LinkedIn: [[Mi perfil de LinkedIn](https://www.linkedin.com/in/sebastian-rodr%C3%ADguez-moure-5a4aa8285)]
 
 ¡Gracias por visitar mi perfil!
 
@@ -66,4 +76,8 @@ Estoy siempre abierto a nuevas oportunidades, colaboraciones y conexiones en la 
 ### Racha en GitHub
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=seb-rm&theme=solarized-dark&locale=es&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat&card_width=500)](https://git.io/streak-stats)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=seb-rm&label=Profile%20views&color=0e75b6&style=flat" alt="seb-rm" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=seb-rm" alt="seb-rm" /></a> </p>
 
