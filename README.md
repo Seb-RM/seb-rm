@@ -77,7 +77,7 @@ Estoy siempre abierto a nuevas oportunidades, colaboraciones y conexiones en la 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=seb-rm&theme=solarized-dark&locale=es&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat&card_width=500)](https://git.io/streak-stats)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=seb-rm&label=Profile%20views&color=0e75b6&style=flat" alt="seb-rm" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=seb-rm&label=Profile%20views&color=0e75b6&style=flat&locale=es" alt="seb-rm" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=seb-rm" alt="seb-rm" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=seb-rm&locale=es" alt="seb-rm" /></a> </p>
 
