@@ -49,7 +49,7 @@
 Estoy siempre abierto a nuevas oportunidades, colaboraciones y conexiones en la comunidad de desarrollo web. No dudes en contactarme:
 
 - 📧 Correo electrónico: [mouresebastian@yahoo.com.ar]
-- 💬 LinkedIn: [[Mi perfil de LinkedIn](https://www.linkedin.com/in/sebastian-rodr%C3%ADguez-moure-5a4aa8285)]
+- 💬 LinkedIn: [Mi perfil de LinkedIn](https://www.linkedin.com/in/sebastian-rodriguez-moure)
 
 ¡Gracias por visitar mi perfil!
 
